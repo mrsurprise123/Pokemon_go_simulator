@@ -1,5 +1,8 @@
 # Pokemon_go_simulator
 
+Note:This repo only has scripts I have written without 3Dobjects. If you wanna whole projectm please connect me with:
+yangjin0817@163.com
+
 Introduction:
 Player live in a world full of Pokemons, what player needs to do to is to walk around and find pokemons. Thus, this is a VR game based on LBS and 3D objects registration. It combines the real world map with the virtual word. In the game, player can see their location of real world is showed on a rendered virtual map. When player click the scan area map, they can see pokemons was generated around them. Player can go to the location of those pokemons and interact with those pokemons. Then, player can turn on their camera to see a pokemon around them and throw a ball to the pokemons. When the ball hit the pokemons, that means player catch a pokemon and player can put them in the box to store.  
 AR Application Design
